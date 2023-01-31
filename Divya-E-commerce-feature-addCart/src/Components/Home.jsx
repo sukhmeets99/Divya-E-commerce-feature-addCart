@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css";
 import { useEffect} from "react";
-import { Link, useNavigate } from "react-router-dom";
+import {useNavigate } from "react-router-dom";
 // import Prod from "./Prod";
 // import image from './main_img.jpg';
 const Home = () => {

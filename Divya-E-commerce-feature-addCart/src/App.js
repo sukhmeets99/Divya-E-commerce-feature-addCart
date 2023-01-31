@@ -1,6 +1,6 @@
 import "./App.css";
 import React from "react";
-import { Route, Routes, Link } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import Navbar from "./Components/Navbar";
 // import image from './main_img.jpg';
 import Home from "./Components/Home";
